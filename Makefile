@@ -1,7 +1,7 @@
 CC = gcc
 DBUG = -g
 CCFLAGS = -O2 -Wall -pedantic
-OBJFILES = main.o
+OBJFILES = monitor.o
 
 TARGET = assign_6
 
